@@ -1,4 +1,4 @@
-package countingelements;
+package com.codility.countingelements;
 
 import java.util.Collections;
 import java.util.HashMap;
